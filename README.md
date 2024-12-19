@@ -1,7 +1,7 @@
 ![MasterHead](https://www.zeplinteknoloji.com.tr/wp-content/uploads/2020/03/yaz%C4%B1l%C4%B1m-gelistirme-gebze.jpg)
 
 <h1 align="center">Ali Han ÖZCAN</h1>
-<h3 align="center">A passionate developer from Türkiye</h3>
+<h3 align="center">Developer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
